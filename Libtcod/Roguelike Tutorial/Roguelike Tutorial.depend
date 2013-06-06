@@ -544,3 +544,368 @@
 1362542464 source:c:\users\campbeja\documents\my projects\libtcod\roguelike tutorial\healer.cpp
 	"main.h"
 
+1363467912 source:/Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/Roguelike Tutorial/Actor.cpp
+	"main.h"
+
+1363467912 /Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/Roguelike Tutorial/main.h
+	<stdio.h>
+	"libtcod.hpp"
+	"Gui.h"
+	"Attacker.h"
+	"Destructible.h"
+	"Ai.h"
+	"Pickable.h"
+	"Container.h"
+	"Healer.h"
+	"Actor.h"
+	"Map.h"
+	"Engine.h"
+	"BspListener.h"
+
+1363467912 /Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/libtcod-1.5.1/include/libtcod.hpp
+	"libtcod.h"
+	"list.hpp"
+	"color.hpp"
+	"console.hpp"
+	"image.hpp"
+	"sys.hpp"
+	"mersenne.hpp"
+	"mouse.hpp"
+	"bresenham.hpp"
+	"noise.hpp"
+	"fov.hpp"
+	"path.hpp"
+	"lex.hpp"
+	"parser.hpp"
+	"tree.hpp"
+	"bsp.hpp"
+	"heightmap.hpp"
+	"zip.hpp"
+	"namegen.hpp"
+	"txtfield.hpp"
+
+1363467912 /Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/libtcod-1.5.1/include/libtcod.h
+	<wchar.h>
+	"SDL/SDL.h"
+	"list.h"
+	"color.h"
+	"console.h"
+	"image.h"
+	"mouse.h"
+	"sys.h"
+	"mersenne.h"
+	"bresenham.h"
+	"noise.h"
+	"fov.h"
+	"path.h"
+	"lex.h"
+	"parser.h"
+	"tree.h"
+	"bsp.h"
+	"heightmap.h"
+	"zip.h"
+	"namegen.h"
+	"txtfield.h"
+
+1363467912 /Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/libtcod-1.5.1/include/list.h
+
+1363467912 /Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/libtcod-1.5.1/include/color.h
+
+1363467912 /Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/libtcod-1.5.1/include/console.h
+	"console_types.h"
+
+1363467912 /Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/libtcod-1.5.1/include/console_types.h
+
+1363467912 /Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/libtcod-1.5.1/include/image.h
+
+1363467912 /Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/libtcod-1.5.1/include/mouse.h
+	"mouse_types.h"
+
+1363467912 /Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/libtcod-1.5.1/include/mouse_types.h
+
+1363467912 /Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/libtcod-1.5.1/include/sys.h
+
+1363467912 /Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/libtcod-1.5.1/include/mersenne.h
+	"mersenne_types.h"
+
+1363467912 /Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/libtcod-1.5.1/include/mersenne_types.h
+
+1363467912 /Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/libtcod-1.5.1/include/bresenham.h
+
+1363467912 /Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/libtcod-1.5.1/include/noise.h
+	"noise_defaults.h"
+
+1363467912 /Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/libtcod-1.5.1/include/noise_defaults.h
+
+1363467912 /Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/libtcod-1.5.1/include/fov.h
+	"fov_types.h"
+
+1363467912 /Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/libtcod-1.5.1/include/fov_types.h
+
+1363467912 /Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/libtcod-1.5.1/include/path.h
+
+1363467912 /Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/libtcod-1.5.1/include/lex.h
+
+1363467912 /Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/libtcod-1.5.1/include/parser.h
+
+1363467912 /Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/libtcod-1.5.1/include/tree.h
+
+1363467912 /Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/libtcod-1.5.1/include/bsp.h
+
+1363467912 /Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/libtcod-1.5.1/include/heightmap.h
+
+1363467912 /Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/libtcod-1.5.1/include/zip.h
+
+1363467912 /Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/libtcod-1.5.1/include/namegen.h
+
+1363467912 /Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/libtcod-1.5.1/include/txtfield.h
+
+1363467912 /Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/libtcod-1.5.1/include/list.hpp
+	<string.h>
+	<stdlib.h>
+
+1363467912 /Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/libtcod-1.5.1/include/color.hpp
+
+1363467912 /Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/libtcod-1.5.1/include/console.hpp
+	"console_types.h"
+
+1363467912 /Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/libtcod-1.5.1/include/image.hpp
+
+1363467912 /Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/libtcod-1.5.1/include/sys.hpp
+
+1363467912 /Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/libtcod-1.5.1/include/mersenne.hpp
+	"mersenne_types.h"
+
+1363467912 /Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/libtcod-1.5.1/include/mouse.hpp
+	"mouse_types.h"
+
+1363467912 /Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/libtcod-1.5.1/include/bresenham.hpp
+
+1363467912 /Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/libtcod-1.5.1/include/noise.hpp
+	"noise_defaults.h"
+
+1363467912 /Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/libtcod-1.5.1/include/fov.hpp
+	"fov_types.h"
+
+1363467912 /Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/libtcod-1.5.1/include/path.hpp
+
+1363467912 /Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/libtcod-1.5.1/include/lex.hpp
+
+1363467912 /Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/libtcod-1.5.1/include/parser.hpp
+
+1363467912 /Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/libtcod-1.5.1/include/tree.hpp
+
+1363467912 /Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/libtcod-1.5.1/include/bsp.hpp
+
+1363467912 /Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/libtcod-1.5.1/include/heightmap.hpp
+
+1363467912 /Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/libtcod-1.5.1/include/zip.hpp
+
+1363467912 /Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/libtcod-1.5.1/include/namegen.hpp
+
+1363467912 /Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/libtcod-1.5.1/include/txtfield.hpp
+	"color.hpp"
+
+1363467912 /Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/Roguelike Tutorial/Gui.h
+
+1363467912 /Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/Roguelike Tutorial/Attacker.h
+
+1363467912 /Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/Roguelike Tutorial/Destructible.h
+
+1363467912 /Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/Roguelike Tutorial/Ai.h
+
+1363467912 /Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/Roguelike Tutorial/Pickable.h
+
+1363467912 /Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/Roguelike Tutorial/Container.h
+
+1363467912 /Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/Roguelike Tutorial/Healer.h
+
+1363467912 /Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/Roguelike Tutorial/Actor.h
+
+1363472899 /Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/Roguelike Tutorial/Map.h
+
+1363467912 /Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/Roguelike Tutorial/Engine.h
+
+1363467912 /Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/Roguelike Tutorial/BspListener.h
+	"libtcod.hpp"
+	"Map.h"
+
+1363472936 source:/Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/Roguelike Tutorial/Ai.cpp
+	"main.h"
+	<math.h>
+
+1363467912 source:/Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/Roguelike Tutorial/Attacker.cpp
+	"main.h"
+
+1363467912 source:/Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/Roguelike Tutorial/BspListener.cpp
+	"main.h"
+
+1363467912 source:/Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/Roguelike Tutorial/Container.cpp
+	"main.h"
+
+1363467912 source:/Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/Roguelike Tutorial/Destructible.cpp
+	"main.h"
+
+1363467912 source:/Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/Roguelike Tutorial/Engine.cpp
+	"main.h"
+
+1363467912 source:/Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/Roguelike Tutorial/Gui.cpp
+	"main.h"
+	"stdarg.h"
+
+1363467912 source:/Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/Roguelike Tutorial/Healer.cpp
+	"main.h"
+
+1363467912 source:/Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/Roguelike Tutorial/main.cpp
+	"main.h"
+
+1363460022 /Users/dennisferron/code/libtcod/include/libtcod.hpp
+	"libtcod.h"
+	"list.hpp"
+	"color.hpp"
+	"console.hpp"
+	"image.hpp"
+	"sys.hpp"
+	"mersenne.hpp"
+	"mouse.hpp"
+	"bresenham.hpp"
+	"noise.hpp"
+	"fov.hpp"
+	"path.hpp"
+	"lex.hpp"
+	"parser.hpp"
+	"tree.hpp"
+	"bsp.hpp"
+	"heightmap.hpp"
+	"zip.hpp"
+	"namegen.hpp"
+	"txtfield.hpp"
+
+1363468691 /Users/dennisferron/code/libtcod/include/libtcod.h
+	<wchar.h>
+	"SDL/SDL.h"
+	"list.h"
+	"color.h"
+	"console.h"
+	"image.h"
+	"mouse.h"
+	"sys.h"
+	"mersenne.h"
+	"bresenham.h"
+	"noise.h"
+	"fov.h"
+	"path.h"
+	"lex.h"
+	"parser.h"
+	"tree.h"
+	"bsp.h"
+	"heightmap.h"
+	"zip.h"
+	"namegen.h"
+	"txtfield.h"
+
+1363460022 /Users/dennisferron/code/libtcod/include/list.h
+
+1363460022 /Users/dennisferron/code/libtcod/include/color.h
+
+1363460022 /Users/dennisferron/code/libtcod/include/console.h
+	"console_types.h"
+
+1363460022 /Users/dennisferron/code/libtcod/include/console_types.h
+
+1363460022 /Users/dennisferron/code/libtcod/include/image.h
+
+1363460022 /Users/dennisferron/code/libtcod/include/mouse.h
+	"mouse_types.h"
+
+1363460022 /Users/dennisferron/code/libtcod/include/mouse_types.h
+
+1363460022 /Users/dennisferron/code/libtcod/include/sys.h
+
+1363460022 /Users/dennisferron/code/libtcod/include/mersenne.h
+	"mersenne_types.h"
+
+1363460022 /Users/dennisferron/code/libtcod/include/mersenne_types.h
+
+1363460022 /Users/dennisferron/code/libtcod/include/bresenham.h
+
+1363460022 /Users/dennisferron/code/libtcod/include/noise.h
+	"noise_defaults.h"
+
+1363460022 /Users/dennisferron/code/libtcod/include/noise_defaults.h
+
+1363460022 /Users/dennisferron/code/libtcod/include/fov.h
+	"fov_types.h"
+
+1363460022 /Users/dennisferron/code/libtcod/include/fov_types.h
+
+1363460022 /Users/dennisferron/code/libtcod/include/path.h
+
+1363460022 /Users/dennisferron/code/libtcod/include/lex.h
+
+1363460022 /Users/dennisferron/code/libtcod/include/parser.h
+
+1363460022 /Users/dennisferron/code/libtcod/include/tree.h
+
+1363460022 /Users/dennisferron/code/libtcod/include/bsp.h
+
+1363460022 /Users/dennisferron/code/libtcod/include/heightmap.h
+
+1363460022 /Users/dennisferron/code/libtcod/include/zip.h
+
+1363460022 /Users/dennisferron/code/libtcod/include/namegen.h
+
+1363460022 /Users/dennisferron/code/libtcod/include/txtfield.h
+
+1363460022 /Users/dennisferron/code/libtcod/include/list.hpp
+	<string.h>
+	<stdlib.h>
+
+1363460022 /Users/dennisferron/code/libtcod/include/color.hpp
+
+1363460022 /Users/dennisferron/code/libtcod/include/console.hpp
+	"console_types.h"
+
+1363460022 /Users/dennisferron/code/libtcod/include/image.hpp
+
+1363460022 /Users/dennisferron/code/libtcod/include/sys.hpp
+
+1363460022 /Users/dennisferron/code/libtcod/include/mersenne.hpp
+	"mersenne_types.h"
+
+1363460022 /Users/dennisferron/code/libtcod/include/mouse.hpp
+	"mouse_types.h"
+
+1363460022 /Users/dennisferron/code/libtcod/include/bresenham.hpp
+
+1363460022 /Users/dennisferron/code/libtcod/include/noise.hpp
+	"noise_defaults.h"
+
+1363460022 /Users/dennisferron/code/libtcod/include/fov.hpp
+	"fov_types.h"
+
+1363460022 /Users/dennisferron/code/libtcod/include/path.hpp
+
+1363460022 /Users/dennisferron/code/libtcod/include/lex.hpp
+
+1363460022 /Users/dennisferron/code/libtcod/include/parser.hpp
+
+1363460022 /Users/dennisferron/code/libtcod/include/tree.hpp
+
+1363460022 /Users/dennisferron/code/libtcod/include/bsp.hpp
+
+1363460022 /Users/dennisferron/code/libtcod/include/heightmap.hpp
+
+1363460022 /Users/dennisferron/code/libtcod/include/zip.hpp
+
+1363460022 /Users/dennisferron/code/libtcod/include/namegen.hpp
+
+1363460022 /Users/dennisferron/code/libtcod/include/txtfield.hpp
+	"color.hpp"
+
+1363473020 source:/Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/Roguelike Tutorial/Map.cpp
+	"main.h"
+
+1363467912 source:/Users/dennisferron/code/LikeMagic-All/7drl/Libtcod/Roguelike Tutorial/Pickable.cpp
+	"main.h"
+
